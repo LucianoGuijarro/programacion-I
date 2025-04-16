@@ -46,3 +46,6 @@ def operacionesBasicas(num1, num2):
     multiplicacion = num1 * num2
     division = num1 / num2
     return suma, resta, division, multiplicacion
+
+def calcularIMC(peso, altura):
+    return peso / (altura * altura)
