@@ -8,7 +8,7 @@ numImpares = 0
 numPositivos = 0
 numNegativos = 0
 
-for i in range(0, 10):
+for i in range(0, 100 + 1):
     num = int(input("Por favor ingrese un numero: "))
     if num % 2 == 0 and num > 0:
         numPares += 1
