@@ -53,5 +53,5 @@ def calcularIMC(peso, altura):
 def celsiusAFahrenheit(temperaturaCelsius):
     return (temperaturaCelsius * 9/5) + 32
 
-def calcularPromedioDetresNumeros(a, b, c):
+def calcularPromedioDeTresNumeros(a, b, c):
     return (a + b + c) / 3
