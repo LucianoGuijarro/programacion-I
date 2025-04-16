@@ -49,3 +49,6 @@ def operacionesBasicas(num1, num2):
 
 def calcularIMC(peso, altura):
     return peso / (altura * altura)
+
+def celsiusAFahrenheit(temperaturaCelsius):
+    return (temperaturaCelsius * 9/5) + 32
