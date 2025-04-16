@@ -10,6 +10,9 @@ def pedirEdad(mensaje):
 def pedirResidencia(mensaje):
     return input(mensaje)
 
+def pedirNumero(mensaje):
+    return int(input(mensaje))
+
 def informacionPersonal(nombre, apellido, edad, residencia):
     persona = {
         "nombre": nombre,
@@ -36,3 +39,10 @@ def tablaMultiplicar(num):
         resultado = i * num
         print(f"{i} * {num} = {resultado}")
     
+
+def operacionesBasicas(num1, num2):
+    suma = num1 + num2
+    resta = num1 - num2
+    multiplicacion = num1 * num2
+    division = num1 / num2
+    return suma, resta, division, multiplicacion
