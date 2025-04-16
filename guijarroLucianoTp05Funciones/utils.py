@@ -30,3 +30,9 @@ def calcularPerimetroCirculo(radio):
 
 def segundosAHoras(segundos):
     return segundos / 3600
+
+def tablaMultiplicar(num):
+    for i in range(1, 11):
+        resultado = i * num
+        print(f"{i} * {num} = {resultado}")
+    
