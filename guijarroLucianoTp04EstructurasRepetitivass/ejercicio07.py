@@ -4,7 +4,7 @@
 numero = int(input("Por favor ingrese un numero entero positivo: "))
 suma = 0
 
-for i in range(0, numero):
+for i in range(0, numero + 1):
     suma = suma + i
 
 print(f"La suma de los numeros comprendidos desde 0 hasta ese numero es de {suma}")
