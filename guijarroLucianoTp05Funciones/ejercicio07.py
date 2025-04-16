@@ -1,3 +1,6 @@
+#7. Crear una función llamada operaciones_basicas(a, b) que reciba
+#dos números como parámetros y devuelva una tupla con el resultado de sumarlos, restarlos, multiplicarlos y dividirlos. 
+# Mostrar los resultados de forma clara.
 from utils import operacionesBasicas, pedirNumero
 
 num1 = pedirNumero("por favor ingrese un primer numero: ")
