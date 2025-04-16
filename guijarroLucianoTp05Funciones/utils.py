@@ -27,3 +27,6 @@ def calcularAreaCirculo(radio):
 
 def calcularPerimetroCirculo(radio):
     return 2 * 3.14 * radio
+
+def segundosAHoras(segundos):
+    return segundos / 3600
