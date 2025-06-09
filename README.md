@@ -24,4 +24,8 @@ Esto sirve mucho para cuando programás cosas más grandes, porque elegir bien p
 
 También me di cuenta de que hay mucho más para investigar, como probar otros algoritmos o usar herramientas más avanzadas para medir el rendimiento.
 
+ENLACE AL VIDEO!!!!
+
+https://youtu.be/dUD1LCxvvqM
+
 
